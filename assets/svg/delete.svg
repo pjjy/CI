@@ -1,0 +1,15 @@
+<svg xml:space="preserve" viewBox="0 0 100 100" y="0" x="0" xmlns="http://www.w3.org/2000/svg" id="圖層_1" version="1.1" style="height: 100%; width: 100%; background: transparent;" width="261px" height="261px"><g class="ldl-scale" style="transform-origin: 50% 50%; transform: scale(0.8);"><g class="ldl-ani"><g class="ldl-layer"><g class="ldl-ani" style="transform: scale(0.91); transform-origin: 50px 50px; animation: 1.11111s linear -0.740741s infinite normal forwards running breath-1c33a55c-5c82-420d-b644-2c557f31f6a4;"><path stroke-miterlimit="10" stroke-width="8" stroke="#333" fill="none" d="M76.5 90h-53C16 90 10 84 10 76.5v-53C10 16 16 10 23.5 10h53C84 10 90 16 90 23.5v53C90 84 84 90 76.5 90z" style="stroke: rgb(51, 51, 51);"></path></g></g><g class="ldl-layer"><g class="ldl-ani"><g><g class="ldl-layer"><g class="ldl-ani" style="transform: scale(0.91); transform-origin: 50px 50px; animation: 1.11111s linear -0.925926s infinite normal forwards running breath-1c33a55c-5c82-420d-b644-2c557f31f6a4;"><path d="M25.3 43.1h49.5v13.7H25.3z" fill="#e15b64" transform="rotate(-45.001 50 50)" style="fill: rgb(225, 91, 100);"></path></g></g></g></g></g><g class="ldl-layer"><g class="ldl-ani"><g><g class="ldl-layer"><g class="ldl-ani" style="transform: scale(0.91); transform-origin: 50px 50px; animation: 1.11111s linear -1.11111s infinite normal forwards running breath-1c33a55c-5c82-420d-b644-2c557f31f6a4;"><path d="M43.1 25.3h13.7v49.5H43.1z" fill="#e15b64" transform="rotate(-45.001 50 50)" style="fill: rgb(225, 91, 100);"></path></g></g></g></g></g></g></g>
+<style id="breath-1c33a55c-5c82-420d-b644-2c557f31f6a4" data-anikit="">@keyframes breath-1c33a55c-5c82-420d-b644-2c557f31f6a4
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.9647,0.2413,-0.0705,0.7911);
+    transform: scale(0.9099999999999999);
+  }
+  51% {
+    animation-timing-function: cubic-bezier(0.9226,0.2631,-0.0308,0.7628);
+    transform: scale(1.02994);
+  }
+  100% {
+    transform: scale(0.9099999999999999);
+  }
+}</style></svg>

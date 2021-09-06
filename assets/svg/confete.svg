@@ -1,0 +1,275 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: rgb(255, 249, 226); display: block; z-index: 1; position: relative; shape-rendering: auto;" width="500" height="350" preserveAspectRatio="xMidYMid" viewBox="0 0 500 350">
+<g transform=""><style type="text/css">
+  @keyframes ld-fall {
+    0% { transform: translate(0,0px) rotate3d(1,1,1,0deg); }
+    100% { transform: translate(0,350px) rotate3d(1,1,1,1080deg) ; }
+  }
+  .ld.ld-fall {
+    animation: ld-fall 4s linear infinite;
+    animation: ld-fall 1s linear infinite;
+  }
+</style>
+  <g transform="translate(0 157.00121898866476)"><g transform="translate(329.52596372439035 0)">
+<g class="ld ld-fall" style="animation-delay:NaNs;animation-duration:4s">
+<rect x="-5.034195073907074" y="-4.620796767023268" width="10.068390147814148" height="9.241593534046537" style="transform:scale(2.2696129352847025)" fill="#4355db"/>
+</g></g><g transform="translate(218.91041011394975 0)">
+<g class="ld ld-fall" style="animation-delay:-3.1878407143133827s;animation-duration:4s">
+<rect x="-4.722909720174423" y="-4.880190917543183" width="9.445819440348846" height="9.760381835086365" style="transform:scale(1.477363881289338)" fill="#e6261f"/>
+</g></g><g transform="translate(344.86874872565073 0)">
+<g class="ld ld-fall" style="animation-delay:-3.1304406764266757s;animation-duration:2s">
+<rect x="-5.733156724012741" y="-4.521124508919732" width="11.466313448025481" height="9.042249017839463" style="transform:scale(1.4707749551313123)" fill="#eb7532"/>
+</g></g><g transform="translate(280.6898106165643 0)">
+<g class="ld ld-fall" style="animation-delay:-1.940001910116678s;animation-duration:4s">
+<rect x="-4.5299698821274195" y="-3.755891072379753" width="9.059939764254839" height="7.511782144759506" style="transform:scale(1.5310522578148194)" fill="#e6261f"/>
+</g></g><g transform="translate(276.4491472080051 0)">
+<g class="ld ld-fall" style="animation-delay:-3.6448157132886623s;animation-duration:2s">
+<rect x="-3.9037164554618893" y="-5.831003331194842" width="7.807432910923779" height="11.662006662389684" style="transform:scale(1.3642545974859892)" fill="#eb7532"/>
+</g></g><g transform="translate(355.072323628877 0)">
+<g class="ld ld-fall" style="animation-delay:-1.5087219199877016s;animation-duration:2s">
+<rect x="-5.466985315044294" y="-4.397890586910377" width="10.933970630088588" height="8.795781173820753" style="transform:scale(2.3233946507559735)" fill="#f7d038"/>
+</g></g><g transform="translate(74.52756070806167 0)">
+<g class="ld ld-fall" style="animation-delay:-0.4658482590843087s;animation-duration:4s">
+<rect x="-3.293232854094614" y="-4.302224402321155" width="6.586465708189228" height="8.60444880464231" style="transform:scale(1.7860495573438622)" fill="#eb7532"/>
+</g></g><g transform="translate(357.2793794743132 0)">
+<g class="ld ld-fall" style="animation-delay:-0.28998266959014823s;animation-duration:2s">
+<rect x="-3.535315686111619" y="-3.5464632802384712" width="7.070631372223238" height="7.0929265604769425" style="transform:scale(2.4412654127487627)" fill="#f7d038"/>
+</g></g><g transform="translate(456.8287844775013 0)">
+<g class="ld ld-fall" style="animation-delay:-1.4176794797952668s;animation-duration:2s">
+<rect x="-5.655628435558638" y="-4.538935187042046" width="11.311256871117276" height="9.077870374084092" style="transform:scale(2.6291761332159247)" fill="#4355db"/>
+</g></g><g transform="translate(300.9914727347803 0)">
+<g class="ld ld-fall" style="animation-delay:-0.5472855513682373s;animation-duration:2s">
+<rect x="-4.0865786791007634" y="-3.8046131255196323" width="8.173157358201527" height="7.6092262510392645" style="transform:scale(2.221512706363541)" fill="#34bbe6"/>
+</g></g><g transform="translate(78.07928781243564 0)">
+<g class="ld ld-fall" style="animation-delay:-1.9768348915456166s;animation-duration:4s">
+<rect x="-3.3076749001589842" y="-4.237008943925273" width="6.6153498003179685" height="8.474017887850547" style="transform:scale(2.529373558167771)" fill="#eb7532"/>
+</g></g><g transform="translate(244.00178728980433 0)">
+<g class="ld ld-fall" style="animation-delay:-1.3908100797539389s;animation-duration:2s">
+<rect x="-5.12485166337445" y="-3.600199252735778" width="10.2497033267489" height="7.200398505471556" style="transform:scale(2.8409985201112646)" fill="#d23be7"/>
+</g></g><g transform="translate(343.9591877962796 0)">
+<g class="ld ld-fall" style="animation-delay:-1.8813384797607449s;animation-duration:4s">
+<rect x="-4.571411452846184" y="-4.395345352218857" width="9.142822905692368" height="8.790690704437713" style="transform:scale(1.8472455806205796)" fill="#eb7532"/>
+</g></g><g transform="translate(442.00874991896063 0)">
+<g class="ld ld-fall" style="animation-delay:-0.1338419849522361s;animation-duration:4s">
+<rect x="-5.466308006921832" y="-4.341248484695943" width="10.932616013843663" height="8.682496969391886" style="transform:scale(1.5367731458091027)" fill="#f7d038"/>
+</g></g><g transform="translate(328.9181507534817 0)">
+<g class="ld ld-fall" style="animation-delay:-2.7691161516036655s;animation-duration:2s">
+<rect x="-3.6680370505889233" y="-4.001698365629609" width="7.3360741011778465" height="8.003396731259217" style="transform:scale(2.727850494468179)" fill="#34bbe6"/>
+</g></g><g transform="translate(151.18073245712228 0)">
+<g class="ld ld-fall" style="animation-delay:-1.9837579618997103s;animation-duration:4s">
+<rect x="-5.258367996815297" y="-3.8352858299533485" width="10.516735993630594" height="7.670571659906697" style="transform:scale(1.520829050397043)" fill="#34bbe6"/>
+</g></g><g transform="translate(196.02310318868487 0)">
+<g class="ld ld-fall" style="animation-delay:-1.1217164272715117s;animation-duration:2s">
+<rect x="-5.050195576680403" y="-5.47890152959157" width="10.100391153360807" height="10.95780305918314" style="transform:scale(2.1479821597640956)" fill="#eb7532"/>
+</g></g><g transform="translate(117.72180151229266 0)">
+<g class="ld ld-fall" style="animation-delay:-0.2566295368138456s;animation-duration:2s">
+<rect x="-5.8048442284364" y="-4.992949758827163" width="11.6096884568728" height="9.985899517654326" style="transform:scale(1.7573362779346147)" fill="#e6261f"/>
+</g></g><g transform="translate(25.752040302018177 0)">
+<g class="ld ld-fall" style="animation-delay:-1.4736676589331292s;animation-duration:2s">
+<rect x="-4.843185021329524" y="-5.112870213760722" width="9.686370042659048" height="10.225740427521444" style="transform:scale(2.3536643294335433)" fill="#f7d038"/>
+</g></g><g transform="translate(416.73778885449855 0)">
+<g class="ld ld-fall" style="animation-delay:-0.8791762952480031s;animation-duration:2s">
+<rect x="-3.5289217418502994" y="-4.5278991352273295" width="7.057843483700599" height="9.055798270454659" style="transform:scale(2.5916391435838086)" fill="#f7d038"/>
+</g></g><g transform="translate(118.22852751955193 0)">
+<g class="ld ld-fall" style="animation-delay:-0.7270540415491152s;animation-duration:2s">
+<rect x="-5.470009582037125" y="-4.40092153106868" width="10.94001916407425" height="8.80184306213736" style="transform:scale(1.2981108455981627)" fill="#a3e048"/>
+</g></g><g transform="translate(130.02568434509584 0)">
+<g class="ld ld-fall" style="animation-delay:-0.06336857597726489s;animation-duration:2s">
+<rect x="-3.759481975542947" y="-5.299622208281553" width="7.518963951085894" height="10.599244416563106" style="transform:scale(1.667848715583122)" fill="#a3e048"/>
+</g></g><g transform="translate(419.56776996781565 0)">
+<g class="ld ld-fall" style="animation-delay:-1.0479754343584335s;animation-duration:4s">
+<rect x="-4.179520321469862" y="-5.242625743274949" width="8.359040642939725" height="10.485251486549897" style="transform:scale(2.524239574540932)" fill="#a3e048"/>
+</g></g><g transform="translate(206.77363362712066 0)">
+<g class="ld ld-fall" style="animation-delay:-0.6882366942218725s;animation-duration:4s">
+<rect x="-3.7044633000397393" y="-5.5490703010811995" width="7.408926600079479" height="11.098140602162399" style="transform:scale(2.271039031688499)" fill="#e6261f"/>
+</g></g><g transform="translate(424.895330748627 0)">
+<g class="ld ld-fall" style="animation-delay:-0.6637109323298733s;animation-duration:4s">
+<rect x="-5.784269809307359" y="-4.33082363659612" width="11.568539618614718" height="8.66164727319224" style="transform:scale(2.536991827178923)" fill="#34bbe6"/>
+</g></g><g transform="translate(206.750829886182 0)">
+<g class="ld ld-fall" style="animation-delay:-1.905305580400504s;animation-duration:2s">
+<rect x="-4.4662646889133075" y="-4.280611949978502" width="8.932529377826615" height="8.561223899957003" style="transform:scale(2.5718339553569747)" fill="#eb7532"/>
+</g></g><g transform="translate(45.4751375327289 0)">
+<g class="ld ld-fall" style="animation-delay:-0.4040813972508546s;animation-duration:4s">
+<rect x="-5.3329392261027255" y="-5.8047826274456735" width="10.665878452205451" height="11.609565254891347" style="transform:scale(2.7675088780457515)" fill="#34bbe6"/>
+</g></g><g transform="translate(44.690543572363914 0)">
+<g class="ld ld-fall" style="animation-delay:-2.0824276435944724s;animation-duration:2s">
+<rect x="-5.502289360537334" y="-3.6443698303253473" width="11.004578721074669" height="7.288739660650695" style="transform:scale(2.557005559755457)" fill="#34bbe6"/>
+</g></g><g transform="translate(221.4400429904603 0)">
+<g class="ld ld-fall" style="animation-delay:-0.3693925579756525s;animation-duration:2s">
+<rect x="-4.023612586321777" y="-5.01204006318857" width="8.047225172643554" height="10.02408012637714" style="transform:scale(2.645079215587055)" fill="#eb7532"/>
+</g></g><g transform="translate(310.7850858184773 0)">
+<g class="ld ld-fall" style="animation-delay:-1.9153274970564484s;animation-duration:2s">
+<rect x="-4.9908999738988395" y="-4.581460241098031" width="9.981799947797679" height="9.162920482196062" style="transform:scale(1.5928353348831812)" fill="#e6261f"/>
+</g></g><g transform="translate(490.40173403004553 0)">
+<g class="ld ld-fall" style="animation-delay:-1.1350589391233536s;animation-duration:2s">
+<rect x="-5.294128477567669" y="-5.240686715768962" width="10.588256955135337" height="10.481373431537923" style="transform:scale(2.715838353541425)" fill="#f7d038"/>
+</g></g><g transform="translate(402.8740005153396 0)">
+<g class="ld ld-fall" style="animation-delay:-1.2397307662611574s;animation-duration:4s">
+<rect x="-4.9283024963368405" y="-4.409346107351132" width="9.856604992673681" height="8.818692214702263" style="transform:scale(2.3197238833115312)" fill="#34bbe6"/>
+</g></g><g transform="translate(74.06658319594 0)">
+<g class="ld ld-fall" style="animation-delay:-2.8983532015539852s;animation-duration:2s">
+<rect x="-3.770823228456117" y="-5.634230198596029" width="7.541646456912234" height="11.268460397192058" style="transform:scale(1.2531682431598912)" fill="#f7d038"/>
+</g></g><g transform="translate(112.7562152052865 0)">
+<g class="ld ld-fall" style="animation-delay:-1.487350213104094s;animation-duration:2s">
+<rect x="-4.9409865739296635" y="-4.6211484073333935" width="9.881973147859327" height="9.242296814666787" style="transform:scale(1.566993490482308)" fill="#4355db"/>
+</g></g><g transform="translate(37.920863164431054 0)">
+<g class="ld ld-fall" style="animation-delay:-0.5929524265296259s;animation-duration:2s">
+<rect x="-4.555668370161021" y="-3.280040226347447" width="9.111336740322042" height="6.560080452694894" style="transform:scale(2.1708118041334297)" fill="#eb7532"/>
+</g></g><g transform="translate(242.21361363665062 0)">
+<g class="ld ld-fall" style="animation-delay:-0.146956416380224s;animation-duration:2s">
+<rect x="-3.7231877711678143" y="-3.5751301012313847" width="7.446375542335629" height="7.1502602024627695" style="transform:scale(2.2202710354266735)" fill="#f7d038"/>
+</g></g><g transform="translate(43.57803359693713 0)">
+<g class="ld ld-fall" style="animation-delay:-0.978087459155361s;animation-duration:2s">
+<rect x="-4.559546587759968" y="-4.590953657131552" width="9.119093175519936" height="9.181907314263103" style="transform:scale(1.6796381778762144)" fill="#4355db"/>
+</g></g><g transform="translate(59.394265303958676 0)">
+<g class="ld ld-fall" style="animation-delay:-1.9856947974157517s;animation-duration:4s">
+<rect x="-3.493588460468981" y="-5.697841880147049" width="6.987176920937962" height="11.395683760294098" style="transform:scale(1.3607346370657498)" fill="#4355db"/>
+</g></g><g transform="translate(132.91810407239967 0)">
+<g class="ld ld-fall" style="animation-delay:-2.341400814824844s;animation-duration:4s">
+<rect x="-3.9992850590091757" y="-4.3759039306379055" width="7.9985701180183515" height="8.751807861275811" style="transform:scale(2.587672330276623)" fill="#d23be7"/>
+</g></g><g transform="translate(101.1857096702515 0)">
+<g class="ld ld-fall" style="animation-delay:-1.823044610262573s;animation-duration:2s">
+<rect x="-5.843751946946581" y="-3.9637774704090893" width="11.687503893893162" height="7.927554940818179" style="transform:scale(1.996340030360085)" fill="#f7d038"/>
+</g></g><g transform="translate(217.99548527705508 0)">
+<g class="ld ld-fall" style="animation-delay:-0.8280205420203581s;animation-duration:4s">
+<rect x="-4.435513914598335" y="-4.463346552106078" width="8.87102782919667" height="8.926693104212156" style="transform:scale(1.9459725902958942)" fill="#e6261f"/>
+</g></g><g transform="translate(23.18930787181719 0)">
+<g class="ld ld-fall" style="animation-delay:-3.0449506810370175s;animation-duration:2s">
+<rect x="-3.5492363976801604" y="-3.2050048453070934" width="7.098472795360321" height="6.410009690614187" style="transform:scale(2.5045525483479416)" fill="#d23be7"/>
+</g></g></g>
+  <g transform="translate(0 -192.99878101133524)"><g transform="translate(329.52596372439035 0)">
+<g class="ld ld-fall" style="animation-delay:NaNs;animation-duration:4s">
+<rect x="-5.034195073907074" y="-4.620796767023268" width="10.068390147814148" height="9.241593534046537" style="transform:scale(2.2696129352847025)" fill="#4355db"/>
+</g></g><g transform="translate(218.91041011394975 0)">
+<g class="ld ld-fall" style="animation-delay:-3.1878407143133827s;animation-duration:4s">
+<rect x="-4.722909720174423" y="-4.880190917543183" width="9.445819440348846" height="9.760381835086365" style="transform:scale(1.477363881289338)" fill="#e6261f"/>
+</g></g><g transform="translate(344.86874872565073 0)">
+<g class="ld ld-fall" style="animation-delay:-3.1304406764266757s;animation-duration:2s">
+<rect x="-5.733156724012741" y="-4.521124508919732" width="11.466313448025481" height="9.042249017839463" style="transform:scale(1.4707749551313123)" fill="#eb7532"/>
+</g></g><g transform="translate(280.6898106165643 0)">
+<g class="ld ld-fall" style="animation-delay:-1.940001910116678s;animation-duration:4s">
+<rect x="-4.5299698821274195" y="-3.755891072379753" width="9.059939764254839" height="7.511782144759506" style="transform:scale(1.5310522578148194)" fill="#e6261f"/>
+</g></g><g transform="translate(276.4491472080051 0)">
+<g class="ld ld-fall" style="animation-delay:-3.6448157132886623s;animation-duration:2s">
+<rect x="-3.9037164554618893" y="-5.831003331194842" width="7.807432910923779" height="11.662006662389684" style="transform:scale(1.3642545974859892)" fill="#eb7532"/>
+</g></g><g transform="translate(355.072323628877 0)">
+<g class="ld ld-fall" style="animation-delay:-1.5087219199877016s;animation-duration:2s">
+<rect x="-5.466985315044294" y="-4.397890586910377" width="10.933970630088588" height="8.795781173820753" style="transform:scale(2.3233946507559735)" fill="#f7d038"/>
+</g></g><g transform="translate(74.52756070806167 0)">
+<g class="ld ld-fall" style="animation-delay:-0.4658482590843087s;animation-duration:4s">
+<rect x="-3.293232854094614" y="-4.302224402321155" width="6.586465708189228" height="8.60444880464231" style="transform:scale(1.7860495573438622)" fill="#eb7532"/>
+</g></g><g transform="translate(357.2793794743132 0)">
+<g class="ld ld-fall" style="animation-delay:-0.28998266959014823s;animation-duration:2s">
+<rect x="-3.535315686111619" y="-3.5464632802384712" width="7.070631372223238" height="7.0929265604769425" style="transform:scale(2.4412654127487627)" fill="#f7d038"/>
+</g></g><g transform="translate(456.8287844775013 0)">
+<g class="ld ld-fall" style="animation-delay:-1.4176794797952668s;animation-duration:2s">
+<rect x="-5.655628435558638" y="-4.538935187042046" width="11.311256871117276" height="9.077870374084092" style="transform:scale(2.6291761332159247)" fill="#4355db"/>
+</g></g><g transform="translate(300.9914727347803 0)">
+<g class="ld ld-fall" style="animation-delay:-0.5472855513682373s;animation-duration:2s">
+<rect x="-4.0865786791007634" y="-3.8046131255196323" width="8.173157358201527" height="7.6092262510392645" style="transform:scale(2.221512706363541)" fill="#34bbe6"/>
+</g></g><g transform="translate(78.07928781243564 0)">
+<g class="ld ld-fall" style="animation-delay:-1.9768348915456166s;animation-duration:4s">
+<rect x="-3.3076749001589842" y="-4.237008943925273" width="6.6153498003179685" height="8.474017887850547" style="transform:scale(2.529373558167771)" fill="#eb7532"/>
+</g></g><g transform="translate(244.00178728980433 0)">
+<g class="ld ld-fall" style="animation-delay:-1.3908100797539389s;animation-duration:2s">
+<rect x="-5.12485166337445" y="-3.600199252735778" width="10.2497033267489" height="7.200398505471556" style="transform:scale(2.8409985201112646)" fill="#d23be7"/>
+</g></g><g transform="translate(343.9591877962796 0)">
+<g class="ld ld-fall" style="animation-delay:-1.8813384797607449s;animation-duration:4s">
+<rect x="-4.571411452846184" y="-4.395345352218857" width="9.142822905692368" height="8.790690704437713" style="transform:scale(1.8472455806205796)" fill="#eb7532"/>
+</g></g><g transform="translate(442.00874991896063 0)">
+<g class="ld ld-fall" style="animation-delay:-0.1338419849522361s;animation-duration:4s">
+<rect x="-5.466308006921832" y="-4.341248484695943" width="10.932616013843663" height="8.682496969391886" style="transform:scale(1.5367731458091027)" fill="#f7d038"/>
+</g></g><g transform="translate(328.9181507534817 0)">
+<g class="ld ld-fall" style="animation-delay:-2.7691161516036655s;animation-duration:2s">
+<rect x="-3.6680370505889233" y="-4.001698365629609" width="7.3360741011778465" height="8.003396731259217" style="transform:scale(2.727850494468179)" fill="#34bbe6"/>
+</g></g><g transform="translate(151.18073245712228 0)">
+<g class="ld ld-fall" style="animation-delay:-1.9837579618997103s;animation-duration:4s">
+<rect x="-5.258367996815297" y="-3.8352858299533485" width="10.516735993630594" height="7.670571659906697" style="transform:scale(1.520829050397043)" fill="#34bbe6"/>
+</g></g><g transform="translate(196.02310318868487 0)">
+<g class="ld ld-fall" style="animation-delay:-1.1217164272715117s;animation-duration:2s">
+<rect x="-5.050195576680403" y="-5.47890152959157" width="10.100391153360807" height="10.95780305918314" style="transform:scale(2.1479821597640956)" fill="#eb7532"/>
+</g></g><g transform="translate(117.72180151229266 0)">
+<g class="ld ld-fall" style="animation-delay:-0.2566295368138456s;animation-duration:2s">
+<rect x="-5.8048442284364" y="-4.992949758827163" width="11.6096884568728" height="9.985899517654326" style="transform:scale(1.7573362779346147)" fill="#e6261f"/>
+</g></g><g transform="translate(25.752040302018177 0)">
+<g class="ld ld-fall" style="animation-delay:-1.4736676589331292s;animation-duration:2s">
+<rect x="-4.843185021329524" y="-5.112870213760722" width="9.686370042659048" height="10.225740427521444" style="transform:scale(2.3536643294335433)" fill="#f7d038"/>
+</g></g><g transform="translate(416.73778885449855 0)">
+<g class="ld ld-fall" style="animation-delay:-0.8791762952480031s;animation-duration:2s">
+<rect x="-3.5289217418502994" y="-4.5278991352273295" width="7.057843483700599" height="9.055798270454659" style="transform:scale(2.5916391435838086)" fill="#f7d038"/>
+</g></g><g transform="translate(118.22852751955193 0)">
+<g class="ld ld-fall" style="animation-delay:-0.7270540415491152s;animation-duration:2s">
+<rect x="-5.470009582037125" y="-4.40092153106868" width="10.94001916407425" height="8.80184306213736" style="transform:scale(1.2981108455981627)" fill="#a3e048"/>
+</g></g><g transform="translate(130.02568434509584 0)">
+<g class="ld ld-fall" style="animation-delay:-0.06336857597726489s;animation-duration:2s">
+<rect x="-3.759481975542947" y="-5.299622208281553" width="7.518963951085894" height="10.599244416563106" style="transform:scale(1.667848715583122)" fill="#a3e048"/>
+</g></g><g transform="translate(419.56776996781565 0)">
+<g class="ld ld-fall" style="animation-delay:-1.0479754343584335s;animation-duration:4s">
+<rect x="-4.179520321469862" y="-5.242625743274949" width="8.359040642939725" height="10.485251486549897" style="transform:scale(2.524239574540932)" fill="#a3e048"/>
+</g></g><g transform="translate(206.77363362712066 0)">
+<g class="ld ld-fall" style="animation-delay:-0.6882366942218725s;animation-duration:4s">
+<rect x="-3.7044633000397393" y="-5.5490703010811995" width="7.408926600079479" height="11.098140602162399" style="transform:scale(2.271039031688499)" fill="#e6261f"/>
+</g></g><g transform="translate(424.895330748627 0)">
+<g class="ld ld-fall" style="animation-delay:-0.6637109323298733s;animation-duration:4s">
+<rect x="-5.784269809307359" y="-4.33082363659612" width="11.568539618614718" height="8.66164727319224" style="transform:scale(2.536991827178923)" fill="#34bbe6"/>
+</g></g><g transform="translate(206.750829886182 0)">
+<g class="ld ld-fall" style="animation-delay:-1.905305580400504s;animation-duration:2s">
+<rect x="-4.4662646889133075" y="-4.280611949978502" width="8.932529377826615" height="8.561223899957003" style="transform:scale(2.5718339553569747)" fill="#eb7532"/>
+</g></g><g transform="translate(45.4751375327289 0)">
+<g class="ld ld-fall" style="animation-delay:-0.4040813972508546s;animation-duration:4s">
+<rect x="-5.3329392261027255" y="-5.8047826274456735" width="10.665878452205451" height="11.609565254891347" style="transform:scale(2.7675088780457515)" fill="#34bbe6"/>
+</g></g><g transform="translate(44.690543572363914 0)">
+<g class="ld ld-fall" style="animation-delay:-2.0824276435944724s;animation-duration:2s">
+<rect x="-5.502289360537334" y="-3.6443698303253473" width="11.004578721074669" height="7.288739660650695" style="transform:scale(2.557005559755457)" fill="#34bbe6"/>
+</g></g><g transform="translate(221.4400429904603 0)">
+<g class="ld ld-fall" style="animation-delay:-0.3693925579756525s;animation-duration:2s">
+<rect x="-4.023612586321777" y="-5.01204006318857" width="8.047225172643554" height="10.02408012637714" style="transform:scale(2.645079215587055)" fill="#eb7532"/>
+</g></g><g transform="translate(310.7850858184773 0)">
+<g class="ld ld-fall" style="animation-delay:-1.9153274970564484s;animation-duration:2s">
+<rect x="-4.9908999738988395" y="-4.581460241098031" width="9.981799947797679" height="9.162920482196062" style="transform:scale(1.5928353348831812)" fill="#e6261f"/>
+</g></g><g transform="translate(490.40173403004553 0)">
+<g class="ld ld-fall" style="animation-delay:-1.1350589391233536s;animation-duration:2s">
+<rect x="-5.294128477567669" y="-5.240686715768962" width="10.588256955135337" height="10.481373431537923" style="transform:scale(2.715838353541425)" fill="#f7d038"/>
+</g></g><g transform="translate(402.8740005153396 0)">
+<g class="ld ld-fall" style="animation-delay:-1.2397307662611574s;animation-duration:4s">
+<rect x="-4.9283024963368405" y="-4.409346107351132" width="9.856604992673681" height="8.818692214702263" style="transform:scale(2.3197238833115312)" fill="#34bbe6"/>
+</g></g><g transform="translate(74.06658319594 0)">
+<g class="ld ld-fall" style="animation-delay:-2.8983532015539852s;animation-duration:2s">
+<rect x="-3.770823228456117" y="-5.634230198596029" width="7.541646456912234" height="11.268460397192058" style="transform:scale(1.2531682431598912)" fill="#f7d038"/>
+</g></g><g transform="translate(112.7562152052865 0)">
+<g class="ld ld-fall" style="animation-delay:-1.487350213104094s;animation-duration:2s">
+<rect x="-4.9409865739296635" y="-4.6211484073333935" width="9.881973147859327" height="9.242296814666787" style="transform:scale(1.566993490482308)" fill="#4355db"/>
+</g></g><g transform="translate(37.920863164431054 0)">
+<g class="ld ld-fall" style="animation-delay:-0.5929524265296259s;animation-duration:2s">
+<rect x="-4.555668370161021" y="-3.280040226347447" width="9.111336740322042" height="6.560080452694894" style="transform:scale(2.1708118041334297)" fill="#eb7532"/>
+</g></g><g transform="translate(242.21361363665062 0)">
+<g class="ld ld-fall" style="animation-delay:-0.146956416380224s;animation-duration:2s">
+<rect x="-3.7231877711678143" y="-3.5751301012313847" width="7.446375542335629" height="7.1502602024627695" style="transform:scale(2.2202710354266735)" fill="#f7d038"/>
+</g></g><g transform="translate(43.57803359693713 0)">
+<g class="ld ld-fall" style="animation-delay:-0.978087459155361s;animation-duration:2s">
+<rect x="-4.559546587759968" y="-4.590953657131552" width="9.119093175519936" height="9.181907314263103" style="transform:scale(1.6796381778762144)" fill="#4355db"/>
+</g></g><g transform="translate(59.394265303958676 0)">
+<g class="ld ld-fall" style="animation-delay:-1.9856947974157517s;animation-duration:4s">
+<rect x="-3.493588460468981" y="-5.697841880147049" width="6.987176920937962" height="11.395683760294098" style="transform:scale(1.3607346370657498)" fill="#4355db"/>
+</g></g><g transform="translate(132.91810407239967 0)">
+<g class="ld ld-fall" style="animation-delay:-2.341400814824844s;animation-duration:4s">
+<rect x="-3.9992850590091757" y="-4.3759039306379055" width="7.9985701180183515" height="8.751807861275811" style="transform:scale(2.587672330276623)" fill="#d23be7"/>
+</g></g><g transform="translate(101.1857096702515 0)">
+<g class="ld ld-fall" style="animation-delay:-1.823044610262573s;animation-duration:2s">
+<rect x="-5.843751946946581" y="-3.9637774704090893" width="11.687503893893162" height="7.927554940818179" style="transform:scale(1.996340030360085)" fill="#f7d038"/>
+</g></g><g transform="translate(217.99548527705508 0)">
+<g class="ld ld-fall" style="animation-delay:-0.8280205420203581s;animation-duration:4s">
+<rect x="-4.435513914598335" y="-4.463346552106078" width="8.87102782919667" height="8.926693104212156" style="transform:scale(1.9459725902958942)" fill="#e6261f"/>
+</g></g><g transform="translate(23.18930787181719 0)">
+<g class="ld ld-fall" style="animation-delay:-3.0449506810370175s;animation-duration:2s">
+<rect x="-3.5492363976801604" y="-3.2050048453070934" width="7.098472795360321" height="6.410009690614187" style="transform:scale(2.5045525483479416)" fill="#d23be7"/>
+</g></g></g></g>
+<style type="text/css">
+  @keyframes ld-fall {
+    0% { transform: translate(0,0px) rotate3d(1,1,1,0deg); }
+    100% { transform: translate(0,350px) rotate3d(1,1,1,1080deg) ; }
+  }
+  .ld.ld-fall {
+    animation: ld-fall 4s linear infinite;
+    animation: ld-fall 1s linear infinite;
+  }
+</style></svg>

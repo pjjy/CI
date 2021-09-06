@@ -1,0 +1,15 @@
+<svg xml:space="preserve" viewBox="0 0 100 100" y="0" x="0" xmlns="http://www.w3.org/2000/svg" id="圖層_1" version="1.1" style="height: 100%; width: 100%; background: transparent;" width="270px" height="270px"><g class="ldl-scale" style="transform-origin: 50% 50%; transform: scale(0.8);"><g class="ldl-ani"><g class="ldl-layer"><g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.11111s linear -0.740741s infinite normal forwards running breath-1aa95f82-bf90-4cf4-b244-3b25b2349f64;"><path stroke-miterlimit="10" stroke-width="8" stroke="#333" fill="none" d="M45.7 10.2L17.6 26.4c-2.7 1.5-4.3 4.4-4.3 7.4v32.4c0 3.1 1.6 5.9 4.3 7.4l28.1 16.2c2.7 1.5 5.9 1.5 8.6 0l28.1-16.2c2.7-1.5 4.3-4.4 4.3-7.4V33.8c0-3.1-1.6-5.9-4.3-7.4L54.3 10.2c-2.7-1.6-5.9-1.6-8.6 0z" style="stroke: rgb(86, 153, 210);"></path></g></g><g class="ldl-layer"><g class="ldl-ani"><g><g class="ldl-layer"><g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.11111s linear -0.925926s infinite normal forwards running breath-1aa95f82-bf90-4cf4-b244-3b25b2349f64;"><path d="M27.5 43.4h45v13.2h-45z" fill="#abbd81" style="fill: rgb(29, 63, 114);"></path></g></g></g></g></g><g class="ldl-layer"><g class="ldl-ani"><g><g class="ldl-layer"><g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.11111s linear -1.11111s infinite normal forwards running breath-1aa95f82-bf90-4cf4-b244-3b25b2349f64;"><path d="M43.4 27.5h13.2v45H43.4z" fill="#abbd81" style="fill: rgb(29, 63, 114);"></path></g></g></g></g></g></g></g>
+<style id="breath-1aa95f82-bf90-4cf4-b244-3b25b2349f64" data-anikit="">@keyframes breath-1aa95f82-bf90-4cf4-b244-3b25b2349f64
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.9647,0.2413,-0.0705,0.7911);
+    transform: scale(0.9099999999999999);
+  }
+  51% {
+    animation-timing-function: cubic-bezier(0.9226,0.2631,-0.0308,0.7628);
+    transform: scale(1.02994);
+  }
+  100% {
+    transform: scale(0.9099999999999999);
+  }
+}</style></svg>

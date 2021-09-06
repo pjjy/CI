@@ -1,0 +1,37 @@
+<svg xml:space="preserve" viewBox="0 0 100 100" y="0" x="0" xmlns="http://www.w3.org/2000/svg" id="圖層_1" version="1.1" style="height: 100%; width: 100%; background: rgba(241, 242, 243, 0.235);" width="193px" height="193px"><g class="ldl-scale" style="transform-origin: 50% 50%; transform: scale(0.8);"><g class="ldl-ani"><g class="ldl-layer"><g class="ldl-ani" style="transform-origin: 50px 50px; transform: translate(0px, 0px) rotate(0deg) scale(1, 1) skewX(0deg) skewY(0deg); opacity: 1; animation: 1.11111s linear -0.833333s infinite normal forwards running move-fade-ttb-4861f6e9-4bf9-45a7-9268-83c12b08943e;"><path fill="#333" d="M78.505 36.732c1.205 0 1.834 1.492 1.02 2.417L51.02 71.548a1.352 1.352 0 0 1-1.02.468c-.373 0-.746-.156-1.02-.468L20.475 39.15c-.814-.925-.184-2.417 1.02-2.417h19.82V11.734c0-1.115.867-2.019 1.937-2.019h13.495c1.07 0 1.937.904 1.937 2.019v24.998h19.821z" id="XMLID_4_" style="fill: rgb(102, 115, 149);"></path></g></g><g class="ldl-layer"><g class="ldl-ani"><g><g class="ldl-layer"><g class="ldl-ani" style="transform-origin: 50px 50px; transform: translate(0px, 0px) rotate(0deg) scale(1, 1) skewX(0deg) skewY(0deg); opacity: 1; animation: 1.11111s linear -1.11111s infinite normal forwards running move-fade-ttb-4861f6e9-4bf9-45a7-9268-83c12b08943e;"><path fill="#666" d="M78.142 90.284H21.858A1.858 1.858 0 0 1 20 88.426v-8.284c0-1.026.832-1.858 1.858-1.858h56.284c1.026 0 1.858.832 1.858 1.858v8.284a1.858 1.858 0 0 1-1.858 1.858z" style="fill: rgb(41, 38, 100);"></path></g></g></g></g></g><metadata xmlns:d="https://loading.io/stock/">
+<d:name>lowercase</d:name>
+<d:tags>download,arrow,save,keep,get,bottom,lowercase,form</d:tags>
+<d:license>by</d:license>
+<d:slug>wnpemn</d:slug>
+</metadata></g></g>
+<style id="move-fade-ttb-4861f6e9-4bf9-45a7-9268-83c12b08943e" data-anikit="">@keyframes move-fade-ttb-4861f6e9-4bf9-45a7-9268-83c12b08943e
+{
+  0% {
+    transform: translate(0px,0px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 1;
+  }
+  40% {
+    transform: translate(0px,40px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 1;
+  }
+  49.99999% {
+    transform: translate(0px,49.99999px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 0;
+  }
+  50% {
+    transform: translate(0px,-50px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 0;
+  }
+  50.00001% {
+    transform: translate(0px,-49.99999px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 0;
+  }
+  60% {
+    transform: translate(0px,-40px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(0px,0px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 1;
+  }
+}</style></svg>
